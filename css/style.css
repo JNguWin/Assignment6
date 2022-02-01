@@ -10,7 +10,8 @@
     background-color: white;
     border-radius: 10px;
     box-shadow: -5px 5px 5px rgba(1, 1, 1, .4);
-    width: 80%;
+    width: 100%;
+    border: 5px solid black;
 
 }
 
@@ -26,7 +27,8 @@
 
 .left-picture {
     width: 100%;
-    border: 5px solid black;
+    border-radius: 10px;
+    box-shadow: -5px 5px 10px black;
 
 }
 
